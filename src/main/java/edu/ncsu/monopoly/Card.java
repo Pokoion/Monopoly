@@ -1,7 +1,7 @@
 package edu.ncsu.monopoly;
 //updated augost 24 with a comment
 public abstract class Card {
-//Commit 2
+//Commit 3
     public static final int TYPE_CHANCE = 1;
     public static final int TYPE_CC = 2;
 
